@@ -11,3 +11,39 @@ body {
 }
 
 /* place your styles below */
+#search-tools{
+  display: flex;
+  margin: 0 auto;
+  justify-content: center;
+}
+
+#display img{
+  display: block;
+ margin: 0 auto;
+ width: 300px;
+ height: 300px;
+}
+
+#display h2 {
+  text-align: center;
+}
+
+#auto-suggestions{
+  display: none;
+  border: 1px solid grey;
+  margin: 0 auto;
+  max-width: 25%;
+}
+
+.suggestion{
+  background-color: transparent;
+  border: none;
+}
+
+.suggestion :focus{
+  outline: none;
+}
+
+.suggestion :hover{
+  color: #ff0000;
+}
