@@ -8,6 +8,16 @@ html {
 
 body {
   text-align: center;
+  background-image: Url(img/Background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: White;
+}
+
+#pic{
+  margin: 0 auto;
+  width: 200px;
+  height: 100px;
 }
 
 /* place your styles below */
@@ -25,6 +35,10 @@ body {
 }
 
 #display h2 {
+  text-align: center;
+}
+
+#display p{
   text-align: center;
 }
 

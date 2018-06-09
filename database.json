@@ -1,17 +1,38 @@
 [
   {
-    "replace":"this",
-    "with":"your",
-    "own":"data"
-  },
-  {
-    "replace":"this",
-    "with":"your",
-    "own":"data"
-  },
-  {
-    "replace":"this",
-    "with":"your",
-    "own":"data"
+    "Name": "Oakland Athletics",
+    "Picture": "img/Oakland.png",
+    "Ballpark": "Oakland–Alameda County Coliseum ",
+    "Established": "1901",
+    "Owner": "John J. Fisher",
+    "WorldSeries": "9"
+  },{
+    "Name": "San Francisco Giants",
+    "Picture": "img/SF.png",
+    "Ballpark": "AT&T Park",
+    "Established": "1883",
+    "Owner": "San Francisco Baseball Associates LLC",
+    "WorldSeries": "8"
+  },{
+    "Name": "Los Angeles Dodgers",
+    "Picture": "img/LA.png",
+    "Ballpark": "Dodger Stadium",
+    "Established": "1883",
+    "Owner": "Guggenheim Baseball Management",
+    "WorldSeries": "6"
+  },{
+    "Name": "Los Angeles Angels of Anaheim",
+    "Picture": "img/LAA.png",
+    "Ballpark": "Angel Stadium",
+    "Established": "1961",
+    "Owner": "Arte Moreno",
+    "WorldSeries": "1"
+  },{
+    "Name": "San Diego Padres",
+    "Picture": "img/SD.png",
+    "Ballpark": "Petco Park",
+    "Established": "1969",
+    "Owner": "Ron Fowler",
+    "WorldSeries": "0"
   }
 ]
